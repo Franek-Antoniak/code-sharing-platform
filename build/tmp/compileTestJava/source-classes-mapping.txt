@@ -1,0 +1,2 @@
+com/code/sharing/platform/CodeSharingPlatformApplicationTests.java
+ com.code.sharing.platform.CodeSharingPlatformApplicationTests

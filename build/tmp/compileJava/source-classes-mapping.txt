@@ -1,0 +1,18 @@
+com/code/sharing/platform/service/CRUD.java
+ com.code.sharing.platform.service.CRUD
+com/code/sharing/platform/controller/Web.java
+ com.code.sharing.platform.controller.Web
+com/code/sharing/platform/tools/RandomStringUUID.java
+ com.code.sharing.platform.tools.RandomStringUUID
+com/code/sharing/platform/tools/FreeMakerConfigBean.java
+ com.code.sharing.platform.tools.FreeMakerConfigBean
+com/code/sharing/platform/repository/CodeRepository.java
+ com.code.sharing.platform.repository.CodeRepository
+com/code/sharing/platform/CodeSharingPlatform.java
+ com.code.sharing.platform.CodeSharingPlatform
+com/code/sharing/platform/model/CodeHolder.java
+ com.code.sharing.platform.model.CodeHolder
+com/code/sharing/platform/controller/Api.java
+ com.code.sharing.platform.controller.Api
+com/code/sharing/platform/service/WebService.java
+ com.code.sharing.platform.service.WebService

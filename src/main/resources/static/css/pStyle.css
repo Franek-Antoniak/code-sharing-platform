@@ -1,0 +1,22 @@
+#code_snippet {
+    resize: none;
+    border: 2px solid grey;
+    background: #282c34;
+    color: silver;
+    width: 550px;
+    height: 800px;
+    overflow-y: auto;
+    padding: 5px;
+}
+
+#time_restriction {
+    margin: 5px;
+    padding: 5px;
+    border-color: #aba499;
+}
+
+#views_restriction {
+    margin: 5px;
+    padding: 5px;
+    border-color: #aba499;
+}

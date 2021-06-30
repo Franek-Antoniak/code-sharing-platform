@@ -1,0 +1,21 @@
+#code_snippet {
+    background: #282c34;
+    border: 2px solid grey;
+    padding: 5px;
+    width: 550px;
+}
+
+#load_date {
+    font-size: 18px;
+    color: forestgreen;
+}
+
+#time_restriction {
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+#views_restriction {
+    font-size: 18px;
+    margin-top: 5px;
+}
