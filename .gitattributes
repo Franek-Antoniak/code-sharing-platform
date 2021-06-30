@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Deleting auto detecting css files as language of the project
+static/* linguist-vendored
