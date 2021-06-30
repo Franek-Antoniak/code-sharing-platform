@@ -2,3 +2,7 @@
 * text=auto
 # Deleting auto detecting css files as language of the project
 *static/* linguist-generated	
+*build/* linguist-generated
+*build/* linguist-vendored=true
+*build/* linguist-vendored
+
